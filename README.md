@@ -1,4 +1,4 @@
-# :construction: README customizado em construção ! :construction:
+# Docker To Do List - Trybe Project
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
@@ -11,3 +11,6 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+My first back-end project, consisted of 12 Docker exercises for creating and pulling an image, finding, starting and stopping containers and using Dockerfile and docker-compose. All commands are in files in /docker-commands.
+
+Done in August 2022.
